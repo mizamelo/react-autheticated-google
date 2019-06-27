@@ -1,11 +1,25 @@
-### Dependeces
+### How to run
 
-eslint
+Configure in **src/services/google.js** your clientId of Google console.
 
 ```sh
-$ yarn add eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react babel-plugin-root-import -D
+$ yarn
 ```
 
+Or
+
 ```sh
-$ yarn add react-app-rewired
+$ npm i
+```
+
+And
+
+```sh
+$ yarn start80
+```
+
+Or
+
+```sh
+$ npm run start80
 ```
